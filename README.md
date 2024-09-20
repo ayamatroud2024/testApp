@@ -21,12 +21,19 @@ php artisan passport:install
 .env
 
 MAIL_MAILER=smtp
+
 MAIL_HOST=smtp.gmail.com
+
 MAIL_PORT=587
+
 MAIL_USERNAME=ayamatroud8@gmail.com
+
 MAIL_PASSWORD=lamfgjmpyowvhick
+
 MAIL_ENCRYPTION=tls
+
 MAIL_FROM_ADDRESS="ayamatroud8@gmail.com"
+
 MAIL_FROM_NAME="Ixcoders"
 
 
